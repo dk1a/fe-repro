@@ -1,1 +1,1 @@
-use ingot::bar::{Bar}
+use foo::{Foo}

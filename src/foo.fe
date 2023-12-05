@@ -1,0 +1,5 @@
+use ingot::bar::{Bar}
+
+pub struct Foo {
+    foo: Bar
+}
